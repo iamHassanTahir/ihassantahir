@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hassan Tahir
+- 👀 I’m interested in programming and web development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java, HTML or CSS
